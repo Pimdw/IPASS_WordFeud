@@ -1,0 +1,3 @@
+greedy_vs_greedy {'Average Score Player 1': 289.489, 'Average Score Player 2': 306.549, 'Most Wins': 'Player2', 'Number of Wins': 634}
+random_vs_random {'Average Score Player 1': 185.895, 'Average Score Player 2': 183.78, 'Most Wins': 'Player1', 'Number of Wins': 501}
+greedy_vs_random {'Average Score Player 1': 330.205, 'Average Score Player 2': 163.792, 'Most Wins': 'Player1', 'Number of Wins': 988}

@@ -1,0 +1,25 @@
+## A Wordfeud solver ##
+
+# You can choose between a greedy algorithm and a random algorithm. #
+
+Give yourself an edge with this wordfeud solver.
+
+Tutorial:
+Begin by running the main.py, make sure the algorithm.make_and_save_DAWG_reversed_DAWG() is selected for the first time.
+
+(1) If you want the solver to help you against another player and you are the starting player, type in 1, 1, 1 and select the type of algorithm after each prompt.
+
+(2) If you want the solver to help you against another player and you are not the starting player, type in 1, 2, 1 and select the type of algorithm after each prompt. 
+
+You can also play other game configurations in here, just follow what the prompt says and you can also play versus the computer.
+
+
+
+The following studies and information tools have been used to create this project:
+Appel, A. W., Jacobson, G. J. (1988). The World’s fastest Srabble Program. Geraadpleegd op 29 mei 2024, van https://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf
+Gordon, S. A. (1993). A Faster Scrabble Move Generation Alogorithm. Geraadpleegd op 29 mei 2024, van https://ericsink.com/downloads/faster-scrabble-gordon.pdf
+Opentaal. (2021). Geraadpleegd op 10 juni 2024, van https://www.opentaal.org/
+Klijn, M. (2017). A perfect information Scrabble game. Geraadpleegd op 29 mei 2024, van https://theses.liacs.nl/pdf/MichelKlijn.pdf
+ChatGPT
+
+Generated documentation
